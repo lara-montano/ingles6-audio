@@ -1,0 +1,8 @@
+Card 1: The Error Before the Deadline
+A student answers card 1 in about one minute.
+
+OK, card one: the error before the deadline. If I were in that situation, I’d tell my team right away, even if it meant asking the professor for more time.
+
+I can see the other side. Some people would say, “Hand it in now and fix it later.” I see their point, but honest data is absolutely essential in engineering. It’s highly unlikely that nobody would notice, and if the professor found the error later, we’d be in serious trouble.
+
+Actually, something similar happened to me last year. If I hadn’t checked the sensor again, I’d have handed in the wrong results, and I wouldn’t trust my own data now. So my answer is: tell the truth. A late report is fine as long as you explain how you’ll fix it.

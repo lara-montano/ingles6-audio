@@ -1,0 +1,9 @@
+Should Every Engineering Student Take an Ethics Course?
+
+Engineers design the bridges we cross and the software we trust, so their decisions affect us all. Some universities now ask every engineering student to take an ethics course. Is this a good idea?
+
+On the one hand, a course would prepare students for real decisions. In a survey of our class, 26 of 40 students said an ethics course would help them at work. If engineers study real cases, they will recognize a safety problem before it becomes a disaster.
+
+On the other hand, time is limited: 28 of the same students would rather take an extra engineering course. Some people argue that ethics is best learned at work, as long as companies have clear rules.
+
+In conclusion, I believe the benefits are greater than the costs. Provided that it is built on real cases, not long lectures, the course will give engineers a useful habit: asking not only can we? but also should we?

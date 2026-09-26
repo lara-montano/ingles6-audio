@@ -1,0 +1,9 @@
+A Lucky Mistake with a Steady Beat
+
+In 1956, Wilson Greatbatch, an American engineer in Buffalo, New York, was building a circuit to record heartbeats. He needed a resistor, a small part that controls how much electricity flows. He reached into a box and picked the wrong one. It wasn’t the part his design needed: its resistance was a hundred times higher.
+
+When he switched the circuit on, it didn’t record anything. Instead, it sent out a short electric pulse, stopped for about a second, and then pulsed again, over and over. Most engineers would have replaced the part and moved on. Greatbatch didn’t. He looked again: the rhythm was just like a human heartbeat.
+
+At that time, doctors already used pacemakers for hearts that beat too slowly, but those machines weren’t inside the body: they worked from outside it. Greatbatch realized that his mistake could become a pacemaker small enough to go inside a patient. In a barn behind his house, he made the circuit smaller and protected it from body fluids. In 1958, surgeons tested the device on a dog, and in 1960 it was implanted in its first human patient.
+
+Later, Greatbatch also developed a long-life battery for pacemakers. Today, millions of people live with a pacemaker in their chest. If he’d thrown the wrong resistor away, the story might have ended there. The mistake gave him the idea, but it was his knowledge of circuits and hearts that turned it into an invention.
