@@ -1,0 +1,14 @@
+The Phone That Fights Waste
+Most phones are built to be replaced. A few are now built to be opened.
+
+In 2022, the world threw away 62 million metric tons of electronic waste, and less than a quarter of it was recorded as recycled, according to a United Nations report. Phones are only a small part of that mountain, but they tell a big story. Many are thrown away while most of the parts inside still work. Often a tired battery or a cracked screen is enough to end a phone’s life.
+
+The reason is the way most phones are built. To make them thin and water-resistant, manufacturers seal them: strong glue holds the battery and the back glass in place, and some screws need special tools. This design has real advantages, but it makes repair slow and expensive. For many owners, the easiest solution is to get rid of the phone.
+
+A phone that fights waste starts from a different question: what happens when a part fails? Fairphone, a company founded in Amsterdam in 2013, came up with one answer. The Fairphone 5, which went on sale in 2023, is modular: it is built from separate blocks that the owner can replace. The back cover clips off by hand, the battery lifts out, and the other parts are held in place by standard screws, not glue. The company sells spare parts from the screen to the charging port, and iFixit, a website that publishes repair guides, gave the phone 10 out of 10.
+
+Designing for repair has a price. Every connector and screw takes up space that a sealed phone can use for a bigger battery. Water is also harder to keep out, so the Fairphone survives splashes, but not a swim. Engineers have to accept these trade-offs or find clever ways around them, and a repairable phone usually costs more at first. Its owners put up with this because they plan to keep the phone for years.
+
+New laws now push the whole industry toward repair. In 2021, France began asking sellers to show a repairability score from 0 to 10. Since June 2025, new smartphone models sold in the European Union have carried a label with a repair class from A to E. Manufacturers must also keep spare parts available for seven years after a model stops being sold, and batteries must keep 80 percent of their capacity after 800 charge cycles. From 2027, EU rules will require batteries that owners can replace themselves, with some exceptions.
+
+For engineers, the lesson goes far beyond phones. For a long time, a good design was one that worked perfectly on the first day. Now a good design also has to keep up with its owner’s changing needs for years: it must be easy to open, fix and, in the end, recycle. Companies that keep making phones nobody can fix may soon run out of customers.

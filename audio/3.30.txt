@@ -1,0 +1,10 @@
+A Plant Pot That Waters Itself
+A student presents her team’s project in about one minute.
+
+Our project is a plant pot that waters itself. The problem we wanted to solve was simple: in exam weeks, nobody in our lab could keep up with the watering, so the plants dried out.
+
+So we came up with a small system. A sensor measures how wet the soil is. When the soil gets too dry, a tiny pump, which is smaller than a matchbox, sends water from a tank. It all runs on a solar panel, so we got rid of the batteries.
+
+We tested it for four weeks. All six plants survived, and the tank never ran out of water.
+
+The main advantage is the low price. The downside is that the sensor has bare metal legs, and they corrode: after four weeks, they were already rusty. Next, we’re going to try a capacitive sensor, whose metal parts are covered, so it should last much longer. I’m really looking forward to testing it. Any questions?

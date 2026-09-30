@@ -1,0 +1,14 @@
+Who Owns Your Face?
+The writer and her flight are invented; every other fact and figure in the column is real.
+
+Last spring, I flew home from a conference, and nobody at the gate asked for my passport. A camera looked at my face for about two seconds, a small light turned green, and the gate opened. The airline had promised boarding “in the blink of an eye,” and it kept its promise. I smiled at the camera, of course. It was only later, somewhere over the ocean, that I started to wonder where my face had gone.
+
+Facial recognition, the technology that identifies a person from a picture of their face, is now part of daily life. Millions of us unlock our phones with a glance, and at a growing number of airports, a camera at the gate has replaced the boarding pass. And there’s no doubt that it can do real good. In April 2018, police in New Delhi tried it out and identified nearly 3,000 missing children in just four days. With results like that, it’s easy to see why so many governments and companies have welcomed it.
+
+But a face isn’t a password. If someone steals your password, you can change it in a minute. You can’t change your face. Once a picture of your face is in a database, it can stay there for years, and it can be shared with companies you’ve never heard of. One company collected more than 30 billion photos from the internet and built a search engine for faces, without asking the people in them. In 2024, the Dutch data protection authority fined it more than 30 million euros.
+
+The technology also makes mistakes, and those mistakes don’t affect everyone equally. In 2018, researchers at MIT tested three commercial systems that guess whether a face belongs to a man or a woman. For light-skinned men, the systems were wrong less than 1% of the time. For women with darker skin, two of the systems were wrong almost 35% of the time. In late 2019, a US government study of 189 systems found that many of them made more mistakes with some groups of people than with others.
+
+Some places have started to set limits. In 2019, San Francisco became the first US city to ban its police and other city departments from using facial recognition. In 2024, the European Union passed a law that lets police scan faces in public places in real time only in a few serious cases, such as the search for a missing child.
+
+The cameras aren’t going to disappear, and honestly, I don’t want them to. I like it when my phone recognizes me. But I’d also like to know who keeps my face, for how long and why. Next time a gate opens in the blink of an eye, I’m going to ask the airline those three questions. I just hope someone at the gate knows the answers.

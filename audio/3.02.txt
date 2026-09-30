@@ -1,0 +1,14 @@
+Humans 2.0: Would You Upgrade?
+Four technologies that work with the human body, and how sure we can be about their future.
+
+For most of history, technology stayed in our hands. Now it’s moving onto our bodies, and sometimes inside them. Engineers are building machines that strengthen, repair and even connect to the human body. What nobody knows yet is how far it’ll go. Here are four upgrades that already exist, and how sure I am about each one.
+
+The first is the bionic arm. Sensors on the skin pick up tiny signals from the muscles, and motors turn them into finger movements. In 2018, the British company Open Bionics launched the Hero Arm, the first medically certified 3D-printed bionic arm. Because 3D printing simplifies production, it’s cheaper than similar models. I’m certain that bionic arms will keep getting lighter and cheaper. Within ten years, many are likely to give users a sense of touch.
+
+The second is the exoskeleton, a robotic frame that you wear. In 2014, the ReWalk became the first exoskeleton cleared for home use in the US. People with spinal cord injuries use it to stand and walk, and since 2023 it’s been cleared for stairs too. In 2018, Ford offered workers in 15 plants the EksoVest, which supports their arms during overhead work. Exoskeletons will almost certainly become common in factories, where they help prevent injuries. However, they’re unlikely to become cheap enough for everyday use soon.
+
+The third upgrade is a chip implant in the hand. The chip is the size of a grain of rice and uses the same technology as a contactless bank card. By 2018, about 3,000 people in Sweden had one. Their chips open office doors with a wave, and in 2017 the rail company SJ began accepting them as tickets. Will we all have one? I doubt it. A phone does the same job, and it doesn’t need surgery, so chip implants might stay a hobby for a few fans.
+
+The boldest upgrade? It’s the brain-computer interface, which connects the brain directly to a computer. In a 2012 study, Cathy Hutchinson, who had been paralyzed by a stroke years before, used a BrainGate implant to guide a robotic arm and drink coffee by herself. In 2024, Noland Arbaugh, the first person with a Neuralink implant, moved a cursor and played chess with his thoughts. These interfaces could transform life for people with paralysis. However, there’s no evidence yet that healthy people will want brain surgery just to type faster.
+
+What worries me isn’t the technology; it’s who controls the data. A chip that opens your door can also tell someone when you’re home, and a brain implant collects the most private data of all. Engineers can minimize these risks if they design for privacy from the start. So would I upgrade? A bionic arm or an exoskeleton, if I needed one: yes. A chip in my hand: I’d probably say no. I wonder whether you’d agree.

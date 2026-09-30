@@ -1,0 +1,47 @@
+Will a Robot Take My Job? An Interview with an Engineer
+
+Host (Josh Turner): Welcome to Next Shift, the show about work and technology. I’m Josh Turner. Today’s question comes from a lot of you: will a robot take my job? My guest is Emily Byrne, a robotics engineer from Galway who works at a car-parts plant in Querétaro, Mexico. Welcome, Emily.
+
+Robotics engineer (Emily Byrne): Thanks, Josh. It’s great to be here.
+
+Host (Josh Turner): So, let’s start with your plant. What do the robots actually do there?
+
+Robotics engineer (Emily Byrne): Three main things. First, they lift heavy metal parts off the conveyor and put them in trays. Some parts weigh twenty kilos. Second, a camera on the arm scans every part for cracks. It’s faster than the human eye, and it never blinks. And third, they press small components into place, with exactly the same force every time.
+
+Host (Josh Turner): Are these the big robots in cages?
+
+Robotics engineer (Emily Byrne): No, most of ours are cobots, collaborative robots. They work right next to people. If you push the arm, or it touches you, it just stops. The idea isn’t new, actually. The first cobot was built in 1996, at Northwestern University.
+
+Host (Josh Turner): Mm-hm. So what happened to the people who used to do that work?
+
+Robotics engineer (Emily Byrne): Let me tell you about Rosa. For twelve years, she lifted those twenty-kilo parts by hand, all day. When our first cobot arrived, she was worried. Now she’s in charge of three of them. She trained for six months, and she adjusts and programs them herself. Last month she told me, “I don’t go home tired anymore. I go home and play with my kids.”
+
+Host (Josh Turner): Nice. But some jobs really do disappear, don’t they?
+
+Robotics engineer (Emily Byrne): Some tasks do, yes. Repetitive tasks are the easiest for machines to take over. If you do the same six steps all day, a machine is bound to learn those steps. And experts often get this wrong. In 2016, Geoffrey Hinton, a famous computer scientist, said we should stop training radiologists, because computers would read medical scans better within five years.
+
+Host (Josh Turner): And did they?
+
+Robotics engineer (Emily Byrne): Computers did get very good at reading scans. But hospitals need more radiologists today, not fewer. Hinton has since said he got the timing wrong. Or take cash machines. When they arrived, everybody said bank tellers were finished. But in the United States, the number of tellers didn’t go down. It actually grew a little, because banks opened more branches.
+
+Host (Josh Turner): Wait, seriously? It went up?
+
+Robotics engineer (Emily Byrne): A little, yes. The tellers spent less time counting money and more time talking to customers.
+
+Host (Josh Turner): OK. But there are about five million industrial robots in factories around the world right now.
+
+Robotics engineer (Emily Byrne): And that number’s likely to keep growing. We’re going to install four more cobots next year ourselves. But here’s what I’ve noticed: every robot in our plant needs someone who understands it. When something unexpected happens, the robot just stops and waits for a person.
+
+Host (Josh Turner): So what’s your advice for engineering students?
+
+Robotics engineer (Emily Byrne): Learn how these machines work, and learn to explain them to people. Someone has to decide what the robots do next.
+
+Host (Josh Turner): Last question. Will a robot take my job?
+
+Robotics engineer (Emily Byrne): It’ll probably take some of your tasks. It might even take the ones you like least. And what you do with that time is up to you.
+
+Host (Josh Turner): Emily Byrne, thank you.
+
+Robotics engineer (Emily Byrne): Thanks, Josh.
+
+Host (Josh Turner): Next week on Next Shift: can a computer be creative?

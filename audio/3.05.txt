@@ -1,0 +1,9 @@
+Roads That Charge Your Car
+
+Electric cars usually have to stop and plug in to charge. But what if the road itself could charge them while they drive? Engineers are already testing roads that do exactly that.
+
+Workers bury copper coils under the surface of the road. When an electric vehicle with a special receiver drives over them, the coils create a magnetic field, and the receiver turns it back into electricity for the battery. It works like a wireless phone charger, but on a much larger scale. Each coil switches on only when an equipped vehicle is above it, so the road is safe for people and for other cars.
+
+The Israeli company Electreon has tested these roads in several countries. In Tel Aviv, a city bus charged on a short electric road near the university. In 2021, on the Swedish island of Gotland, a 40-ton electric truck charged as it drove along a public road. And in November 2023, Detroit opened the first public wireless-charging road in the United States: a quarter-mile section of 14th Street.
+
+The technology is still expensive, and only vehicles with receivers can use it. However, supporters say that charging roads could let buses and trucks carry much smaller batteries, which would make them lighter and cheaper to build. Whether these roads will ever become common is still an open question.
