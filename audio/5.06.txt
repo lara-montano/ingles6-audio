@@ -1,0 +1,9 @@
+Why Are Manhole Covers Round?
+
+Look down the next time you walk across campus. Manhole covers in many countries are round, not square. Is that just a habit, or is there an engineering reason?
+
+There are several reasons, and the first comes from geometry. A square opening is longer across its corners than across its sides, so a square cover tilted on its edge can fall through. That would be dangerous for the workers below. A circle has the same width in every direction, so a round cover cannot fall through a round opening, however it is turned.
+
+A round cover has practical advantages, too. A worker can roll a heavy one to the side instead of lifting it, and there is no need to line up any corners when putting it back. The hole itself is usually round as well, because a circle is the strongest shape against the pressure of the soil around it.
+
+Not every country uses round covers, however. In the United Kingdom, many covers are square or rectangular.
